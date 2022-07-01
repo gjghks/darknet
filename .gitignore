@@ -14,7 +14,7 @@
 .circleci
 .github
 backup/
-obj/
+# obj/
 mnist/
 # data/
 caffe/
